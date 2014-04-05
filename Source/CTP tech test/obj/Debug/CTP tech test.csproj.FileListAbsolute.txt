@@ -1,0 +1,17 @@
+C:\Users\studi_000\Documents\GitHub\CryptoPeerTalk\CTP test\CTP tech test\CTP tech test\obj\Debug\CTP tech test.csprojResolveAssemblyReference.cache
+C:\Users\studi_000\Documents\GitHub\CryptoPeerTalk\CTP test\CTP tech test\CTP tech test\obj\Debug\CTP tech test.csproj.GenerateResource.Cache
+C:\Users\studi_000\Documents\GitHub\CryptoPeerTalk\CTP test\CTP tech test\CTP tech test\obj\Debug\Interop.NATUPNPLib.dll
+C:\Users\studi_000\Documents\GitHub\CryptoPeerTalk\CTP test\CTP tech test\CTP tech test\obj\Debug\CTP tech test.csproj.ResolveComReference.cache
+C:\Users\studi_000\Documents\GitHub\CryptoPeerTalk\CTP test\CTP tech test\CTP tech test\bin\Debug\Interop.NATUPNPLib.dll
+C:\Users\studi_000\Documents\GitHub\CryptoPeerTalk\CTP test\CTP tech test\CTP tech test\bin\Debug\CPT.exe.config
+C:\Users\studi_000\Documents\GitHub\CryptoPeerTalk\CTP test\CTP tech test\CTP tech test\bin\Debug\CPT.exe.manifest
+C:\Users\studi_000\Documents\GitHub\CryptoPeerTalk\CTP test\CTP tech test\CTP tech test\bin\Debug\CPT.application
+C:\Users\studi_000\Documents\GitHub\CryptoPeerTalk\CTP test\CTP tech test\CTP tech test\bin\Debug\CPT.exe
+C:\Users\studi_000\Documents\GitHub\CryptoPeerTalk\CTP test\CTP tech test\CTP tech test\bin\Debug\CPT.pdb
+C:\Users\studi_000\Documents\GitHub\CryptoPeerTalk\CTP test\CTP tech test\CTP tech test\obj\Debug\CPT.exe.manifest
+C:\Users\studi_000\Documents\GitHub\CryptoPeerTalk\CTP test\CTP tech test\CTP tech test\obj\Debug\CPT.application
+C:\Users\studi_000\Documents\GitHub\CryptoPeerTalk\CTP test\CTP tech test\CTP tech test\obj\Debug\CPT.exe
+C:\Users\studi_000\Documents\GitHub\CryptoPeerTalk\CTP test\CTP tech test\CTP tech test\obj\Debug\CPT.pdb
+C:\Users\studi_000\Documents\GitHub\CryptoPeerTalk\CTP test\CTP tech test\CTP tech test\obj\Debug\CryptoPeerTalk.CPT.resources
+C:\Users\studi_000\Documents\GitHub\CryptoPeerTalk\CTP test\CTP tech test\CTP tech test\obj\Debug\CryptoPeerTalk.HowTo.resources
+C:\Users\studi_000\Documents\GitHub\CryptoPeerTalk\CTP test\CTP tech test\CTP tech test\obj\Debug\CryptoPeerTalk.Properties.Resources.resources
