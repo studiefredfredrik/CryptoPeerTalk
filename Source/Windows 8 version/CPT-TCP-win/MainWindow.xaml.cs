@@ -40,6 +40,7 @@ namespace CPT_TCP_win
         UdpClient udpServer;
         UPnPNATClass upnpnat;
         IStaticPortMappingCollection mappings;
+        string recieverIP = "";
 
         private Cryptography crypto;
 
@@ -173,13 +174,23 @@ namespace CPT_TCP_win
                         int k = b.Length;
                         for (int i = 0; i < k; i++)
                             recievedText += Convert.ToChar(b[i]);
-                        //SomeTextBox.Dispatcher.BeginInvoke((Action)(() => SomeTextBox.Text = ...));
-                        //txtMessages.Dispatcher.BeginInvoke((Action)(() => txtMessages.Text += "\nRemote: " + recievedText));
-                        //txtMessages.Dispatcher.BeginInvoke((Action)(() => txtMessages.ScrollToEnd()));
 
                         // update remote ip
                         txtMessages.Dispatcher.BeginInvoke((Action)(() => txtIP.Text = remoteIPep.Address.ToString()));
-                        //txtMessages.Dispatcher.BeginInvoke((Action)(() => txtMessages.Text += remoteIPep.Port.ToString()));  //DEBUG!
+
+                        if (recieverIP == "")  // new connection
+                        {
+                            udpServer.Connect(remoteIPep);
+                            recieverIP = remoteIPep.Address.ToString(); // Update the reciever IP if new connection
+                            txtIP.Dispatcher.BeginInvoke((Action)(() => txtIP.Text = recieverIP));
+                        }
+
+                        if (recievedText.Contains("#holepunch#"))
+                        {
+                            txtMessages.Dispatcher.BeginInvoke((Action)(() => txtMessages.Text += "\n\t[recieved knock]\n"));
+                            txtMessages.Dispatcher.BeginInvoke((Action)(() => txtMessages.ScrollToEnd()));
+                            continue;
+                        }
 
                         // Check for public key in the message
                         if (recievedText.Contains("#publicKeyStarts#"))
@@ -196,7 +207,6 @@ namespace CPT_TCP_win
                                 udpServer.Send(ba, ba.Length);
                                 txtMessages.Dispatcher.BeginInvoke((Action)(() => txtMessages.Text += "\n[sent public key]\n\t"));
                                 txtMessages.Dispatcher.BeginInvoke((Action)(() => txtMessages.ScrollToEnd()));
-                                txtMessages.ScrollToEnd();
                                 keySendt = true;
                             }
                             //MessageBox.Show("Recieved publicKey!\n" + remotePublicKey);
@@ -231,6 +241,12 @@ namespace CPT_TCP_win
             try
             {
                 udpServer.Connect(new IPEndPoint(IPAddress.Parse(txtIP.Text),8100));
+                string wrappedKey = "#holepunch#";
+                ASCIIEncoding asen = new ASCIIEncoding();
+                byte[] ba = asen.GetBytes(wrappedKey);
+                udpServer.Send(ba, ba.Length);
+                txtMessages.Text += "\n\t[knock sent]\n";
+                txtMessages.ScrollToEnd();
             }
             catch(Exception ex)
             {
