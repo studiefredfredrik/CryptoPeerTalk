@@ -1,0 +1,101 @@
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\CPT-TCP-win.exe.config
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\obj\Debug\CPT-TCP-win.csprojResolveAssemblyReference.cache
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\obj\Debug\MainWindow.baml
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\obj\Debug\MainWindow.g.cs
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\obj\Debug\App.g.cs
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\obj\Debug\CPT-TCP-win_MarkupCompile.cache
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\obj\Debug\CPT-TCP-win.g.resources
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\obj\Debug\CPT_TCP_win.Properties.Resources.resources
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\obj\Debug\CPT-TCP-win.csproj.GenerateResource.Cache
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\CPT-TCP-win.exe
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\CPT-TCP-win.pdb
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\obj\Debug\CPT-TCP-win.exe
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\obj\Debug\CPT-TCP-win.pdb
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\obj\Debug\Interop.NATUPNPLib.dll
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\obj\Debug\CPT-TCP-win.csproj.ResolveComReference.cache
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\Interop.NATUPNPLib.dll
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Fredrik\Desktop\CPT-TCP-win\CPT-TCP-win\CPT-TCP-win\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\CPT-TCP-win.exe.config
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\obj\Debug\Interop.NATUPNPLib.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\obj\Debug\CPT-TCP-win.csproj.ResolveComReference.cache
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\obj\Debug\CPT-TCP-win.exe
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\obj\Debug\CPT-TCP-win.pdb
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\obj\Debug\CPT-TCP-win.csprojResolveAssemblyReference.cache
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\obj\Debug\MainWindow.baml
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\obj\Debug\MainWindow.g.cs
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\obj\Debug\App.g.cs
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\obj\Debug\CPT-TCP-win_MarkupCompile.cache
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\obj\Debug\CPT-TCP-win.g.resources
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\obj\Debug\CPT_TCP_win.Properties.Resources.resources
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\obj\Debug\CPT-TCP-win.csproj.GenerateResource.Cache
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\CPT-TCP-win.exe
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\CPT-TCP-win.pdb
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Fredrik\Desktop\CPT-UDP-win8 -newtry\CPT-TCP-win\bin\Debug\Interop.NATUPNPLib.dll
+C:\Users\Fredrik\Documents\GitHub\CryptoPeerTalk\Source\Windows 8 version\CPT-TCP-win\bin\Debug\CPT-TCP-win.exe.config
+C:\Users\Fredrik\Documents\GitHub\CryptoPeerTalk\Source\Windows 8 version\CPT-TCP-win\obj\Debug\Interop.NATUPNPLib.dll
+C:\Users\Fredrik\Documents\GitHub\CryptoPeerTalk\Source\Windows 8 version\CPT-TCP-win\obj\Debug\CPT-TCP-win.csproj.ResolveComReference.cache
+C:\Users\Fredrik\Documents\GitHub\CryptoPeerTalk\Source\Windows 8 version\CPT-TCP-win\obj\Debug\CPT-TCP-win.exe
+C:\Users\Fredrik\Documents\GitHub\CryptoPeerTalk\Source\Windows 8 version\CPT-TCP-win\obj\Debug\CPT-TCP-win.pdb
