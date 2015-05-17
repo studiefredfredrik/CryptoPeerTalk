@@ -54,7 +54,7 @@ namespace CPT_TCP_win
             try
             {
                 crypto = new Cryptography();
-                udpServer = new UdpClient(8100);
+                udpServer = new UdpClient(2280);
                 Thread thread = new Thread(new ThreadStart(WorkThreadFunction));
                 thread.Start();
 
@@ -240,7 +240,7 @@ namespace CPT_TCP_win
         {
             try
             {
-                udpServer.Connect(new IPEndPoint(IPAddress.Parse(txtIP.Text),8100));
+                udpServer.Connect(new IPEndPoint(IPAddress.Parse(txtIP.Text),2280));
                 string wrappedKey = "#holepunch#";
                 ASCIIEncoding asen = new ASCIIEncoding();
                 byte[] ba = asen.GetBytes(wrappedKey);
@@ -269,7 +269,7 @@ namespace CPT_TCP_win
 
         private void btnAbout_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("\nTCP version for windows\n Current version is: 1.00","CPT");
+            MessageBox.Show("\nTCP version for windows\n Current version is: 1.33","CPT");
         }
 
         private void btnSend_Click(object sender, RoutedEventArgs e)
@@ -319,7 +319,7 @@ namespace CPT_TCP_win
 
         private void btnUPnP_Click(object sender, RoutedEventArgs e)
         {
-            Thread thread = new Thread(() => forwardPortWithFailsafe(8001));
+            Thread thread = new Thread(() => forwardPortWithFailsafe(2280));
             thread.Start();
         }
 
