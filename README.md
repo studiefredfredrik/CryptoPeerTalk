@@ -1,5 +1,4 @@
-Crypto Peer Talk
-----------------------------------------
+# About
 Crypto Peer Talk, CPT for short is a
 chat application that uses the Diffie Hellman
 key exchange to establish a secure encrypted 
